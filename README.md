@@ -1,4 +1,4 @@
-# HCM-AI-Progression: CardI-HACK Data Challenge
+# HCM_AI_Prediction: CardI-HACK Data Challenge
 
 Host: IHU ICAN
 - IHU ICAN is a leading French translational research institute dedicated to cardiometabolic diseases, combining clinical expertise and scientific innovation to drive advances in patient care.
